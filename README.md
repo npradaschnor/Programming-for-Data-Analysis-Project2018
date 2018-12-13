@@ -2,9 +2,9 @@
 
 ## Project 2018 - Programming for Data Analysis Module - HD Computer Science/Data Analytics at GMIT
 
-In this repository a **real world problem** chose was **overweight/obesity**. 
+Considering my background in Nutrition and Food I've chosen **overweight/obesity** as **real world problem**. 
 
-The sample chose was **adult women** residing in **Ireland**. 
+In my PhD and Master's I've worked with obese women in the waiting list for Bariatric Surgery. Therefore, I've chosen **adult women** residing in **Ireland** as my sample. 
 
 Four variables were created using the **numpy.random** function. The variables chosen were: 
 * age in years
