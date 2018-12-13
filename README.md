@@ -4,7 +4,7 @@
 
 Considering my background in Nutrition and Food I've chosen **overweight/obesity** as **real world problem**. 
 
-In my PhD and Master's I've worked with obese women in the waiting list for Bariatric Surgery. Therefore, I've chosen **adult women** residing in **Ireland** as my sample. 
+In my PhD and Master's I've worked with [obese women candidates for Bariatric Surgery](http://www.scielo.br/scielo.php?lng=en&script=sci_arttext&pid=S2359-39972017000400326). Therefore, I've chosen **adult women** residing in **Ireland** as my sample. 
 
 Four variables were created using the **numpy.random** function. The variables chosen were: 
 * age in years
