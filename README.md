@@ -1,6 +1,8 @@
 # Real World Problem Simulation Data Project2018
 
-## Project 2018 - Programming for Data Analysis Module - HD Computer Science/Data Analytics at GMIT
+## HD Computer Science/Data Analytics at GMIT
+
+## Programming for Data Analysis Module
 
 Considering my background in Nutrition and Food I've chosen **overweight/obesity** as **real world problem**. 
 
