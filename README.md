@@ -4,7 +4,7 @@
 
 In this repository a **real world problem** chose was **overweight/obesity**. 
 
-The sample chose was adult women residing in Ireland. 
+The sample chose was **adult women** residing in **Ireland**. 
 
 Four variables were created using the **numpy.random** function. The variables chosen were: 
 * age in years
@@ -14,8 +14,10 @@ Four variables were created using the **numpy.random** function. The variables c
 
 To generate those number a research was done and the mean/average of the variables found in the research was used. 
 
-Mainly the project was based on results of the latest National Adult Nutrition Survey (NANS 2011), that is considered a major investment in providing food consumption data of the adult population in Ireland. 
+Mainly the project was based on results of the latest **National Adult Nutrition Survey (NANS 2011)**, that is considered a major investment in providing food consumption data of the adult population in Ireland. 
 
 After all the data was randomly generated, a histogram and a box plot were plotted for each variable. A data frame was created containing all the data and a pairplot was plotted based on nutritional status (overweight/obese).
 
 You will find the project in the notebook file named 'Programming-for-Data-Analytics-Project2018.ipynb'.
+
+For more information about the instruction for this project read [project.pdf](https://github.com/npradaschnor/Fundamental-for-Data-Analysis-Project2018/blob/master/project_fund_da.pdf).
