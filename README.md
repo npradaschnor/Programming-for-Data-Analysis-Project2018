@@ -18,6 +18,6 @@ Mainly the project was based on results of the latest **National Adult Nutrition
 
 After all the data was randomly generated, a histogram and a box plot were plotted for each variable. A data frame was created containing all the data and a pairplot was plotted based on nutritional status (overweight/obese).
 
-You will find the project in the notebook file named 'Programming-for-Data-Analytics-Project2018.ipynb'.
+You will find the project in the notebook file named :open_file_folder:[Programming-for-Data-Analytics-Project2018.ipynb](https://github.com/npradaschnor/Programming-for-Data-Analysis-Project2018/blob/master/Programming-for-Data-Analytics-Project-2018.ipynb).
 
 For more information about the instruction for this project read [project.pdf](https://github.com/npradaschnor/Fundamental-for-Data-Analysis-Project2018/blob/master/project_fund_da.pdf).
